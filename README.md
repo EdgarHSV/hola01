@@ -1,3 +1,5 @@
+This virtualenv seems to have the wrong Python version (3.10 instead of 3.8).
+
 # hola01
 Test VERCEL with a simple project django
 
@@ -19,3 +21,4 @@ Test VERCEL with a simple project django
 
 ## SOURCE
 - Clase 01 - Entorno Django en VSCode y crea tu primer proyecto (https://youtu.be/ZmtktIlOErk).
+
